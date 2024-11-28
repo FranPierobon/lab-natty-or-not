@@ -12,6 +12,8 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre psicoterapia, estruturar 
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo bem direcionado, explicando sobre psicoterapia e suas principais aplicações.
+[O que é Psicoterapia.docx](https://github.com/user-attachments/files/17951612/O.que.e.Psicoterapia.docx)
+
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
